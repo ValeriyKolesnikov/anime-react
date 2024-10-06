@@ -1,0 +1,15 @@
+.watch-later-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    font-size: 14px;
+  }
+  
+  .watch-later-button:hover {
+    background-color: #45a049;
+  }
+  

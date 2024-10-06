@@ -1,0 +1,15 @@
+.anime-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    text-align: center;
+  }
+  
+  .anime-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
